@@ -48,4 +48,5 @@ Demonstrate updating underlying tables via a view.
 5️⃣ Drop a View
 
 Remove the created view from the database.
+
 ![image.alt](https://github.com/TTeerrtthh/Elevate_Labs_Day-7/blob/166aea052624d3b5502718eb04967f88abe328de/5.png)
